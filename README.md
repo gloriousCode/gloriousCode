@@ -1,4 +1,6 @@
-### Hi there 👋
+# :flamingo: :flamingo: :flamingo: :flamingo: :flamingo: :flamingo: :flamingo: :flamingo: :flamingo: :flamingo:
+### Hello!
+# :flamingo: :flamingo: :flamingo: :flamingo: :flamingo: :flamingo: :flamingo: :flamingo: :flamingo: :flamingo:
 
 <!--
 **gloriousCode/gloriousCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
