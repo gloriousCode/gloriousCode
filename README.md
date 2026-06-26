@@ -1,18 +1,28 @@
-# :flamingo: :flamingo: :flamingo: :flamingo: :flamingo: :flamingo: :flamingo: :flamingo: :flamingo: :flamingo: :flamingo: :flamingo: :flamingo: :flamingo: :flamingo: :flamingo:
-### Hello! This is my repo!
+Scott / gloriousCode
 
+Senior Software Engineer working primarily in Go, distributed backend systems and financial software.
 
-<!--
-**gloriousCode/gloriousCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on GoCryptoTrader, an open-source automated trading platform that provides a unified interface across cryptocurrency exchanges. My focus is on backend architecture, exchange integrations, real-time market data, event-driven backtesting, trading workflows and long-term maintainability.
 
-Here are some ideas to get you started:
+Areas I work in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Go / Golang
+* Distributed backend systems
+* Financial systems and automated trading infrastructure
+* Exchange API integrations
+* WebSockets and real-time market data
+* gRPC APIs
+* Event-driven systems
+* Observability and automated testing
+* AI-assisted software engineering workflows
+
+Current interests:
+
+* Designing reliable abstractions over inconsistent third-party APIs
+* Applying AI tools to software development without lowering code quality
+* Developer tooling, observability and maintainable systems
+* Embedded software, watchfaces and small-device interfaces
+
+Main project:
+
+* GoCryptoTrader — open-source cryptocurrency trading bot and framework supporting multiple exchanges.
